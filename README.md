@@ -41,7 +41,7 @@ To run the code in this repository, you'll need to have the following dependenci
 
 You can install the required Python packages using pip:
 ```bash
-pip install numpy pandas matplotlib xarray scipy seaborn tqdm netCDF4 basemap
+pip install numpy pandas matplotlib scikit-learn imbalanced-learn xgboost lightgbm joblib shap basemap
 ```
 
 ## Usage
